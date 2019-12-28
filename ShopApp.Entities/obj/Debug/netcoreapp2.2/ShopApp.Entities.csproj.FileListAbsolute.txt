@@ -1,0 +1,8 @@
+C:\Users\Murad\Downloads\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\0-Public Version\ShopApp\ShopApp.Entities\bin\Debug\netcoreapp2.2\ShopApp.Entities.deps.json
+C:\Users\Murad\Downloads\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\0-Public Version\ShopApp\ShopApp.Entities\bin\Debug\netcoreapp2.2\ShopApp.Entities.dll
+C:\Users\Murad\Downloads\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\0-Public Version\ShopApp\ShopApp.Entities\bin\Debug\netcoreapp2.2\ShopApp.Entities.pdb
+C:\Users\Murad\Downloads\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\0-Public Version\ShopApp\ShopApp.Entities\obj\Debug\netcoreapp2.2\ShopApp.Entities.csprojAssemblyReference.cache
+C:\Users\Murad\Downloads\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\0-Public Version\ShopApp\ShopApp.Entities\obj\Debug\netcoreapp2.2\ShopApp.Entities.AssemblyInfoInputs.cache
+C:\Users\Murad\Downloads\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\0-Public Version\ShopApp\ShopApp.Entities\obj\Debug\netcoreapp2.2\ShopApp.Entities.AssemblyInfo.cs
+C:\Users\Murad\Downloads\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\0-Public Version\ShopApp\ShopApp.Entities\obj\Debug\netcoreapp2.2\ShopApp.Entities.dll
+C:\Users\Murad\Downloads\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\0-Public Version\ShopApp\ShopApp.Entities\obj\Debug\netcoreapp2.2\ShopApp.Entities.pdb

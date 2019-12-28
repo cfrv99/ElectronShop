@@ -1,0 +1,196 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Murad\\Downloads\\Katmanli-Mimari-ETicaret-Core-Mvc-master\\src\\2-ShopApp\\0-Public Version\\ShopApp\\ShopApp.Business\\ShopApp.Business.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Murad\\Downloads\\Katmanli-Mimari-ETicaret-Core-Mvc-master\\src\\2-ShopApp\\0-Public Version\\ShopApp\\ShopApp.Business\\ShopApp.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Murad\\Downloads\\Katmanli-Mimari-ETicaret-Core-Mvc-master\\src\\2-ShopApp\\0-Public Version\\ShopApp\\ShopApp.Business\\ShopApp.Business.csproj",
+        "projectName": "ShopApp.Business",
+        "projectPath": "C:\\Users\\Murad\\Downloads\\Katmanli-Mimari-ETicaret-Core-Mvc-master\\src\\2-ShopApp\\0-Public Version\\ShopApp\\ShopApp.Business\\ShopApp.Business.csproj",
+        "packagesPath": "C:\\Users\\Murad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Murad\\Downloads\\Katmanli-Mimari-ETicaret-Core-Mvc-master\\src\\2-ShopApp\\0-Public Version\\ShopApp\\ShopApp.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Murad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Murad\\Downloads\\Katmanli-Mimari-ETicaret-Core-Mvc-master\\src\\2-ShopApp\\0-Public Version\\ShopApp\\ShopApp.DataAccess\\ShopApp.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Murad\\Downloads\\Katmanli-Mimari-ETicaret-Core-Mvc-master\\src\\2-ShopApp\\0-Public Version\\ShopApp\\ShopApp.DataAccess\\ShopApp.DataAccess.csproj"
+              },
+              "C:\\Users\\Murad\\Downloads\\Katmanli-Mimari-ETicaret-Core-Mvc-master\\src\\2-ShopApp\\0-Public Version\\ShopApp\\ShopApp.Entities\\ShopApp.Entities.csproj": {
+                "projectPath": "C:\\Users\\Murad\\Downloads\\Katmanli-Mimari-ETicaret-Core-Mvc-master\\src\\2-ShopApp\\0-Public Version\\ShopApp\\ShopApp.Entities\\ShopApp.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Murad\\Downloads\\Katmanli-Mimari-ETicaret-Core-Mvc-master\\src\\2-ShopApp\\0-Public Version\\ShopApp\\ShopApp.DataAccess\\ShopApp.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Murad\\Downloads\\Katmanli-Mimari-ETicaret-Core-Mvc-master\\src\\2-ShopApp\\0-Public Version\\ShopApp\\ShopApp.DataAccess\\ShopApp.DataAccess.csproj",
+        "projectName": "ShopApp.DataAccess",
+        "projectPath": "C:\\Users\\Murad\\Downloads\\Katmanli-Mimari-ETicaret-Core-Mvc-master\\src\\2-ShopApp\\0-Public Version\\ShopApp\\ShopApp.DataAccess\\ShopApp.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Murad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Murad\\Downloads\\Katmanli-Mimari-ETicaret-Core-Mvc-master\\src\\2-ShopApp\\0-Public Version\\ShopApp\\ShopApp.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Murad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Murad\\Downloads\\Katmanli-Mimari-ETicaret-Core-Mvc-master\\src\\2-ShopApp\\0-Public Version\\ShopApp\\ShopApp.Entities\\ShopApp.Entities.csproj": {
+                "projectPath": "C:\\Users\\Murad\\Downloads\\Katmanli-Mimari-ETicaret-Core-Mvc-master\\src\\2-ShopApp\\0-Public Version\\ShopApp\\ShopApp.Entities\\ShopApp.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Murad\\Downloads\\Katmanli-Mimari-ETicaret-Core-Mvc-master\\src\\2-ShopApp\\0-Public Version\\ShopApp\\ShopApp.Entities\\ShopApp.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Murad\\Downloads\\Katmanli-Mimari-ETicaret-Core-Mvc-master\\src\\2-ShopApp\\0-Public Version\\ShopApp\\ShopApp.Entities\\ShopApp.Entities.csproj",
+        "projectName": "ShopApp.Entities",
+        "projectPath": "C:\\Users\\Murad\\Downloads\\Katmanli-Mimari-ETicaret-Core-Mvc-master\\src\\2-ShopApp\\0-Public Version\\ShopApp\\ShopApp.Entities\\ShopApp.Entities.csproj",
+        "packagesPath": "C:\\Users\\Murad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Murad\\Downloads\\Katmanli-Mimari-ETicaret-Core-Mvc-master\\src\\2-ShopApp\\0-Public Version\\ShopApp\\ShopApp.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Murad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
